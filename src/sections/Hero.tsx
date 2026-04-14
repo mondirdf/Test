@@ -18,6 +18,13 @@ export default function Hero() {
         </Card>
 
         <Card title="8+ years" eyebrow="Experience" className="tile-stat">
+          <div className="media-wrap">
+            <img
+              src="https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?auto=format&fit=crop&w=1000&q=80"
+              alt="Designer desk with color swatches and creative tools"
+              loading="lazy"
+            />
+          </div>
           <p>Collaborating with startups, fashion labels, and product teams worldwide.</p>
         </Card>
 
